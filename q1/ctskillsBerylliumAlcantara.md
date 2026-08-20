@@ -1,10 +1,12 @@
 ## Smart Vending Machine
 
-Annex B
-Computational Thinking Exercise: "Smart Vending Machine"
-Section: 9-Beryllium       Score:____________
+  Annex B
 
-C# / Name: Andrew G. Alcantara           Date: 08/19/26
+  Computational Thinking Exercise: "Smart Vending Machine"
+
+  Section: 9-Beryllium       Score:____________
+
+  C# / Name: Andrew G. Alcantara           Date: 08/19/26
 
 
 ## Scenario
@@ -72,19 +74,21 @@ Example Solution
 1. Incorrect Change Calculation: The machine fails to calculate or dispense 
 the exact change owed to the student after a transaction.
 
-START
-  INPUT item_price
-  INPUT cash_inserted
-  
-  IF cash_inserted < item_price THEN
-    PRINT "Insufficient funds. Please insert more money."
-  ELSE IF cash_inserted == item_price THEN
-    DISPENSE item
-    PRINT "Exact amount received. No change."
-  ELSE
-    change = cash_inserted - item_price
-    DISPENSE item
-    DISPENSE change
-    PRINT "Dispensing change: ", change
-  END IF
-END
+  START
+
+    INPUT item_price
+    INPUT cash_inserted
+    
+    IF cash_inserted < item_price THEN
+      PRINT "Insufficient funds. Please insert more money."
+    ELSE IF cash_inserted == item_price THEN
+      DISPENSE item
+      PRINT "Exact amount received. No change."
+    ELSE
+      change = cash_inserted - item_price
+      DISPENSE item
+      DISPENSE change
+      PRINT "Dispensing change: ", change
+    END IF
+
+  END
