@@ -1,6 +1,6 @@
 # SG4 - Understanding Classes and Objects
-## Class Name: NBA Team
-## Class Description: The "NBA Team" class refers to a professional basketball team in the NBA. It stores information about the team like their championships, players etc.
+## Class Name: Teams
+## Class Description: The "Teams" class refers to a professional basketball team in the NBA. It stores information about the team like their championships, players etc.
 ## Properties
 | Property | Data Type | Description |
 |---|---|---|
