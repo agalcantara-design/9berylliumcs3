@@ -13,3 +13,5 @@
 [OOP Concept](./q1/ila_oop.md)
 
 [OOPAct](./q1/classObjectUML.md)
+
+[OOPAct Part 2](./q1/classAttributesMethods.md)
