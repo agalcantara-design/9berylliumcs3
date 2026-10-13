@@ -17,3 +17,6 @@
 [OOPAct Part 2](./q1/classAttributesMethods.md)
 
 [OOPAct Part 3](./q1/classRelationships.md)
+
+# 2nd Quarter
+[Encapsulation](./q2/sg8_encapsulation.py)
