@@ -23,4 +23,4 @@
 
 [Inheritance](./q2/sg9_inheritance.py)
 
-[Zoo Management System](./q2/Zoo Management System.py)
+[Zoo Management System](./q2/Zoo%20Management%20System.py)
