@@ -1,10 +1,9 @@
-# Information
-    Andrew G. Alcantara
-    9 - Beryllium
-    Basketball Player
+# Computer Science 3 Portfolio
+## Student Information
+**Name:** Andrew G. Alcantara
+**Section:** 9 - Beryllium
 
 # 1st Quarter
-
 ## Activities
 [Computational Thinking Exercise](./q1/ctskillsBerylliumAlcantara.md)
 
@@ -19,6 +18,9 @@
 [OOPAct Part 3](./q1/classRelationships.md)
 
 # 2nd Quarter
+## Activities
 [Encapsulation](./q2/sg8_encapsulation.py)
 
 [Inheritance](./q2/sg9_inheritance.py)
+
+[Zoo Management System](./q2/Zoo Management System.py)
