@@ -24,3 +24,7 @@
 [Inheritance](./q2/sg9_inheritance.py)
 
 [Zoo Management System](./q2/Zoo%20Management%20System.py)
+
+[Polymorphism Act 1](./q2/sg11_Activity1.py)
+
+[Polymorphism Act 2](./q2/sg11_Activity2.md)
